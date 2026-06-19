@@ -6,7 +6,7 @@
     "entrypoint": "app"
   },
   "python": {
-    "version": "3.14.4",
+    "version": "3.13.13",
     "package_manager": {
       "name": "pip",
       "version": "26.1.2",
@@ -15,7 +15,7 @@
   },
   "environment": {
     "python": {
-      "requires": ">= 3.14.4"
+      "requires": ">= 3.13"
     }
   },
   "files": {
@@ -26,7 +26,7 @@
       "checksum": "362989c3985ecd5358be85401632b06c"
     },
     "pyproject.toml": {
-      "checksum": "02f346025c5bc5c0c429056e82f3f187"
+      "checksum": "1263b2714984f975254d9449b601d95b"
     }
   }
 }
